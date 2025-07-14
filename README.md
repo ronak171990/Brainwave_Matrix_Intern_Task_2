@@ -57,14 +57,12 @@ To understand public sentiment toward U.S. airlines by analyzing real-world twee
 ## 📂 Folder Structure
 
 Brainwave_Matrix_Intern_Task_2/
-│
 ├── twitter_sentiment_analysis.csv # Raw dataset
 ├── twitter_sentiment_analysis.ipynb # Main notebook
 ├── cleaned_tweets.csv # Preprocessed tweets
 ├── images/ # Visualizations for GitHub/LinkedIn
 │ ├── vader_distribution.png
 │ ├── wordcloud.png
-│ └── ...
 └── README.md
 
 
