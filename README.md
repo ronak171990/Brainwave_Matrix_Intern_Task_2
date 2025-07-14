@@ -80,7 +80,7 @@ Follow me for more project breakdowns in Data Science & Analytics.
 ## 📬 Contact
 
 **Ronak Patel**  
-📧 ronak171990@gmail.com  
+📧 ronakpatel171990@gmail.com  
 🌐 [GitHub Portfolio](https://github.com/ronak171990)
 
 ---
